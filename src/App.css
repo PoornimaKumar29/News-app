@@ -1,0 +1,16 @@
+.navbar {
+    padding: 1rem; /* Optional: Add padding around the navbar */
+  }
+  
+  .navbar-nav .nav-link {
+    padding: 0.5rem 1rem; /* Optional: Adjust padding for navbar links */
+  }
+   
+  .cursor-pointer {
+    cursor: pointer;
+  }
+  .active-category {
+    background-color: #b9bdc5;
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
